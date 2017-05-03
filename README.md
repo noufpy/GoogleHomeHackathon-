@@ -1,7 +1,9 @@
 # GoogleHomeHackathon-
 ![hand](https://cloud.githubusercontent.com/assets/22034616/25673646/16a07848-3006-11e7-9624-b79e47bf5c8d.jpg)
 ![overall_system](https://cloud.githubusercontent.com/assets/22034616/25673476/88335e2c-3005-11e7-9772-8f595780d8fd.jpg)
-[Video](https://vimeo.com/207585754)
+
+[Watch Demo](https://vimeo.com/207585754)
+
 # openBCI + GoogleHome
 
 ## Components of the application
